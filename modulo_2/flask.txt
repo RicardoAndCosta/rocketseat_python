@@ -1,0 +1,32 @@
+Simplicidade: Uma das antagens do Flask é a sua SIMPLICIDADE e a sua FACILIDADE NO APRENDIZADO. 
+Seu código é legível e intuitivo, tornando-o um escolha popular para iniciantes e  desenvolvedores exeprientes.
+
+Escalabilidade: O Flask pode ser estendindo com várias xtensções e bibliotecas para adiconar funcionalidades 
+conforme necessário. Isso permite escalibilidade à medida que os projetos crescem. 
+
+Flecibilidaed: O Flask permite aos desenvolvedores escolerem suas próprias ferramentas e bibliotecas para
+construir aplicações personalizadas. Ele não impões estruturas rígidas, permintindo uma abordagem mais
+flexível para o desenvolvimento.
+
+O Flask, um dos principais frameworks web em Python, foi lançado por Armin Ronacher em 1º de abril de 201. 
+Ronacher é um conhecido desenvolvedor e contribuidor ativo para a comunidade de software livre, tendo tb 
+contribuido para projetos como Jinja2, Werkzeug e Click.
+
+A ideia por trás do Flask era criar um fremework simples e fácil de usar, mas que tb fosse poderoso e capaz de 
+suportar o desenvolvimento de aplicações web robustas. A filosofia central do Flask sempre foi a de manter a 
+Simplicidade e fornecer aos desenvolvedores a liberdade para escolerem suas próprias ferramentas e abordagens 
+de desenvolvimento.
+
+Usos reais: 
+
+Pinterest: Embora o Pinterest use uma variedade de tecnologias, o Flask foi uma das ferramentas fundamentais no 
+início do desenvolvimento da plataforma. Desde 2012, o Pinterest utiliza flask em suas API's, recebend bilhões 
+de requisisções todos os dias.
+
+LinedIn: Certas parte do backend do LinkedIn são construidas usndo Flask. Especificamente, o time de engenharia 
+de experimentação usa Flask para serviços internos.
+
+Netflix: Embora a maioria da arquitetura da Netflix seja baseada em Java, eles tb têm algumas partes menores 
+construidas em Python, incluindo o uso do Flask em alguns serviços internos.
+
+Uber: Flask é usado em algumas partes do ecossistema interno de ferramenttas e serviços do Uber. 
