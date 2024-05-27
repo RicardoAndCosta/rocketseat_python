@@ -29,4 +29,4 @@ de experimentação usa Flask para serviços internos.
 Netflix: Embora a maioria da arquitetura da Netflix seja baseada em Java, eles tb têm algumas partes menores 
 construidas em Python, incluindo o uso do Flask em alguns serviços internos.
 
-Uber: Flask é usado em algumas partes do ecossistema interno de ferramenttas e serviços do Uber. 
+Uber: Flask é usado em algumas partes do ecossistema interno de ferramenttas e serviços do Uber.
