@@ -2,6 +2,8 @@ from flask import Flask, request, jsonify
 from models.user import User
 from database import db
 from flask_login import LoginManager, login_user, current_user, logout_user, login_required
+
+# Biblioteca responsável por criptografar dados na nossa api, senhas
 import bcrypt
 
 
